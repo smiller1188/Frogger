@@ -1,10 +1,14 @@
 
+
 # Frogger
 
 Frogger is an arcade game that was manufactuered by Sega in 1981. The object of the game is the direct the frog home safely by crossing busy roads and crossing the logs over streams.
 
 The game is a grid-based game built by vanilla JavaScript, HTML and CSS.
 
+## Demo
+
+https://user-images.githubusercontent.com/97858648/168448801-c00d6413-ec15-40ef-a5fb-d9795ae672fb.mp4
 
 
 ## Built-in functions used
