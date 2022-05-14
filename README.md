@@ -38,7 +38,6 @@ https://user-images.githubusercontent.com/97858648/168448801-c00d6413-ec15-40ef-
 - You are safe on the road, 'c2', 'c3'
 - You are safe to cross the water on the logs, 'l1', 'l2', 'l3'
 - You will fall off the log if you don't move with them
-- You are safe on the road, 'c2', 'c3'
 - You can pause the game by pressing the 'Start/Pause' button and resume by pressing the button again
 
 
